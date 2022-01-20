@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @superhxf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+2022年，新的一年，新的开始，步入软件这一行已经五年了，如果算上大学软工专业的话，已经九年了。
+从初级研发工程师，到中级，到高级，再到架构师 每一年都有不同的风采。
+从产品二开，到平台产品研发，再到项目开发，项目管理，项目架构，走过的路，比想象中的要多。
 
-<!---
-superhxf/superhxf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2022年，今年只做技术。
+
+2022年，我与旧事归与尽，来年桃花依旧开！
